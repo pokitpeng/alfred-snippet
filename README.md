@@ -1,0 +1,2 @@
+# alfred-snippet
+my snippet
